@@ -5,7 +5,7 @@ This SQL script contains hands-on exercises on retrieving and analysing data fro
 ## Files
 
 - Schema diagram: [Employee Database Schema](employee-database-schema.png)
-- Data insertion script: [Employee Data.sql](employee data.sql)
+- Data insertion script: [Employee Data.sql](employee%20data.sql)
 - Querying script: [Clauses-and-Joins.sql](Clauses-and-Joins.sql)
 
 The tables were created using the given schema, populated with the data script, and then queried using the script above.
