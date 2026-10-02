@@ -5,7 +5,7 @@ This SQL script contains hands-on exercises on retrieving and analysing data fro
 ## Files
 
 - Schema diagram: [Employee Database Schema](employee-database-schema.png)
-- Data insertion script: [Employee Data.sql](Employee%20Data.sql)
+- Data insertion script: [Employee Data.sql](employee data.sql)
 - Querying script: [Clauses-and-Joins.sql](Clauses-and-Joins.sql)
 
 The tables were created using the given schema, populated with the data script, and then queried using the script above.
@@ -83,6 +83,6 @@ Run the scripts in this order in MySQL Workbench (or any MySQL client):
 To run from a terminal instead, use:
 
 ```bash
-mysql -u root -p < "Employee Data.sql"
+mysql -u root -p < "employee data.sql"
 mysql -u root -p employee < "Clauses-and-Joins.sql"
 ```
